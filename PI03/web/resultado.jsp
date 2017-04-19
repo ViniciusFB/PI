@@ -7,11 +7,11 @@
     <title>JSP Page</title>
   </head>
   <body>
-    <h1>Contato novo</h1>
+    <h1>Usuário novo</h1>
     <h1><c:out value="${sessionScope.novoContato.nome}" /></h1>
     <p><c:out value="${sessionScope.novoContato.email}" /></p>
     <p><c:out value="${sessionScope.novoContato.telefone}" /></p>
     <c:remove scope="session" var="novoContato" />
-    <a href="agenda">Voltar</a>
+    <a href="entrada">Voltar</a>
   </body>
 </html>

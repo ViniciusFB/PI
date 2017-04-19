@@ -1,8 +1,8 @@
-<%@page import="java.util.List"%>
-<%@page import="java.util.Arrays"%>
-<%@page import="java.util.Arrays"%>
-<%@page import="br.senac.tads3.pi3b.Contato"%>
-<%@page import="java.util.Date"%>
+<%@page import= "java.util.List"%>
+<%@page import= "java.util.Arrays"%>
+<%@page import= "java.util.Arrays"%>
+<%@page import= "br.senac.tads3.pi3b.ProjetoX"%>
+<%@page import= "java.util.Date"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>

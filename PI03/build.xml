@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="PI03" default="default" basedir=".">
-    <description>Builds, tests, and runs the project PI03.</description>
+<project name="br.senac.tads3.pi3b.ProjetoX" default="default" basedir=".">
+    <description>Builds, tests, and runs the project br.senac.tads3.pi3b.ProjetoX.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 

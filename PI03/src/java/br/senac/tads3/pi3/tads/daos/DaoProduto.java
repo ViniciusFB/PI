@@ -22,7 +22,7 @@ public class DaoProduto {
     private String sql;
     private PreparedStatement prepareStmt;
     private ResultSet resultSet;
-    
+    //JAWD
   
    public static void inserir(Produto produto) throws SQLException, Exception {
         String sql = "INSERT INTO Produto (Nome, Codigo, Tipo, Quantidade, Descricao, Valor)"

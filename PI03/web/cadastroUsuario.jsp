@@ -1,9 +1,3 @@
-<%-- 
-    Document   : entrada
-    Created on : 04/04/2017, 22:06:04
-    Author     : fernando.tsuda
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -49,7 +43,7 @@
 
                     <div>
                         <label for="txtcpf">CPF</label>
-                        <input type="text" name="cpf" id="txtCpfe" />
+                        <input type="text" name="cpf" id="txtCpf" />
                     </div>
 
                     <div>
